@@ -26,7 +26,7 @@ He generat diverses bases de dades per fer diferents proves:
 >
 > I hi ha una altra Base de dades diferent [Aquí](https://drive.google.com/file/d/1E27wssmMpxNk4vdGAhTNZrSObXxxBgg_/view?usp=sharing)
 >
-> I una de gegant [Aquí]()
+> I una de gegant [Aquí](https://drive.google.com/file/d/1bqnAcLnohpZ9CzhnmSmM0bvMlNDGGYHY/view?usp=sharing)
 
 No he fet que el programa accepti paràmetres des de la línia de comandes o sigui que normalment s'haurà d'editar el fitxer main.rs i definir-hi les dades d'accés a la base de dades: **host, base de dades, usuari, contrasenya**
 
