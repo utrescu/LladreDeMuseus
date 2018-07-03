@@ -1,6 +1,6 @@
 # Aprenent Rust
 
-Aquest és el meu primer programa en Rust. Fins ara no n'havia fet mai cap i per tant segurament hi faig algunes coses que poden ser fetes d'una forma més òptima.
+Aquest és el meu primer programa en Rust que accedeix a una Base de Dades. Fins ara no n'havia fet mai cap i per tant segurament hi faig algunes coses que poden ser fetes d'una forma més òptima.
 
 ## Compilar
 
@@ -58,7 +58,7 @@ Però tot i les precaucions i les mesures de seguretat, l’amenaça s’ha comp
 
 ![Han robat igualment](imatges/museus1.png)
 
-El gran detectiu **Sherlock “Informatic” Holmes** ha vingut a intentar ajudar-nos i ràpidament ha deduït que tots els robatoris han estat fets per la mateixa gent i de deduir que el robatori l’ha fet la mateixa gent.
+El gran detectiu **Sherlock “Informatic” Holmes** ha vingut a intentar ajudar-nos i ràpidament ha deduït que tots els robatoris han estat fets per la mateixa gent.
 
 ![Sherlock "informàtic" Holmes](imatges/museus2.png)
 
